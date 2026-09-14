@@ -26,7 +26,7 @@ I work on electric mobility platforms — chargers, vehicles, telemetry — and 
 
 **[PFC — Personal Food Computer](https://github.com/LaNeigeLuge/PFC-Personal-Food-Computer)** — a controlled greenhouse wired to an IoT hub. 5th-year engineering project, ESME Sudria. *Sensors → control loop → crops.*
 
-**[Aquarium Monitoring System](https://github.com/LaNeigeLuge/Aquarium-Monitoring-System)** — the same idea, smaller tank, Java.
+**[Aquarium Monitoring System](https://github.com/LaNeigeLuge/Aquarium-Monitoring-System)** — Aquariums iot hub + research to detect fish disease thanks to image processing, Java, android Studio, python.
 
 ---
 
