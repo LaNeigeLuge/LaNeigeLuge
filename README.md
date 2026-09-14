@@ -16,7 +16,7 @@ I work on electric mobility platforms — chargers, vehicles, telemetry — and 
 🔍 **Operate** — know what the fleet is doing without SSHing into it.
 `telemetry` `logs` `simulation` `deterministic tests`
 
-### Projects
+### Public Projects
 
 **[Gitpulpu](https://github.com/LaNeigeLuge/Gitpulpu)** — a FOSS multiplatform Git client for people who find Git hostile. *Kotlin Multiplatform → one client, every desktop.*
 
